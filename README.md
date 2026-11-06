@@ -86,7 +86,7 @@ DB_PASSWORD=sua_senha
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Marcospf26/NOME-DO-REPOSITORIO.git
+git clone https://github.com/Marcospf26/sistema-gerenciamento-biblioteca.git
 ```
 
 2. Abra o projeto na sua IDE.
